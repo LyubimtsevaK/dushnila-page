@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/dushnila-page/static/css/main.68e8fd78.css",
-    "main.js": "/dushnila-page/static/js/main.1c32cbae.js",
+    "main.js": "/dushnila-page/static/js/main.5fff3b9c.js",
     "static/js/787.5d01fb58.chunk.js": "/dushnila-page/static/js/787.5d01fb58.chunk.js",
     "static/media/Inter.ttf": "/dushnila-page/static/media/Inter.3f7acfe50aad7ad68548.ttf",
     "static/media/Inter-light.ttf": "/dushnila-page/static/media/Inter-light.02850f28027788580733.ttf",
     "index.html": "/dushnila-page/index.html",
     "main.68e8fd78.css.map": "/dushnila-page/static/css/main.68e8fd78.css.map",
-    "main.1c32cbae.js.map": "/dushnila-page/static/js/main.1c32cbae.js.map",
+    "main.5fff3b9c.js.map": "/dushnila-page/static/js/main.5fff3b9c.js.map",
     "787.5d01fb58.chunk.js.map": "/dushnila-page/static/js/787.5d01fb58.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.68e8fd78.css",
-    "static/js/main.1c32cbae.js"
+    "static/js/main.5fff3b9c.js"
   ]
 }

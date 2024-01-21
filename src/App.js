@@ -9,7 +9,7 @@ function App() {
   
   return (
     <div className='size'>
-    <h1 className='dushnila'>ДУШНИЛА</h1>
+      <h1 className='dushnila'>ДУШНИЛА</h1>
       <div className='body'>
         <div>
           <Result/>

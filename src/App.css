@@ -33,6 +33,7 @@
     position: absolute;
     margin-top: 70px;
     margin-left: 100px;
+    width: 100%;
 }
 
 .co2Text {
@@ -46,6 +47,7 @@
     position: absolute;
     margin-top: 331px;
     margin-left: 100px;
+    width: 100%;
 }
 
 .pText {
@@ -204,12 +206,12 @@
 }
 
 .size {
-  width: 100%;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .dushnila {
@@ -226,15 +228,21 @@
 }
 
 .body {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 10px;
 }
 
-@media (max-width: 768px) {
-  .body {
-    flex-direction: column;
-    align-items: center;
-  }
+
+@media (max-width: 1845px) {
+    .size {
+        width: 135%;
+        height: 300%;
+        margin-left: 0%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
 }
